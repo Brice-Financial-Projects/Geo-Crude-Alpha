@@ -1,24 +1,24 @@
 # 🛢️ Geo-Crude-Alpha
 
-**Forecasting crude oil prices using geopolitical sentiment, weather data, and time series analysis.**
+**Forecasting crude oil prices using geopolitical sentiment, weather data, and time series modeling.**
 
-Geo-Crude-Alpha is a collaborative quant research project focused on modeling oil price movements using a multi-factor framework. We integrate **NLP-driven sentiment analysis**, **weather-based signals**, and **time series forecasting techniques** to explore predictive relationships in global energy markets.
+Geo-Crude-Alpha is a collaborative **quantitative research** project focused on building a multi-factor oil price prediction engine. We integrate **natural language processing (NLP)**, **weather-based feature signals**, and **time series forecasting techniques** to explore predictive relationships in global energy markets.
 
 ---
 
 ## 📌 Project Goals
 
-- Extract sentiment from news headlines, social media, and other text data related to **geopolitical and economic events**
-- Integrate weather data as a factor influencing oil supply/demand dynamics
-- Apply and compare classical and machine learning time series models (ARIMA, LSTM, Prophet)
-- Visualize the impact of external features (sentiment & weather) on oil price trends
-- Deliver an interpretable and modular forecasting pipeline
+- Extract sentiment from news headlines, social media, and global news sources related to **geopolitical and economic events**
+- Integrate **weather data** as a factor influencing oil supply/demand dynamics
+- Apply and compare **classical and deep learning time series models** (ARIMA, LSTM, Prophet)
+- Visualize the impact of external features on crude oil pricing trends
+- Deliver a modular and interpretable forecasting pipeline
 
 ---
 
 ## 🔍 Use Case
 
-With growing geopolitical instability and climate-driven energy concerns, traditional oil price models fall short. Geo-Crude-Alpha aims to capture **real-time signals** from global events and environmental shifts to provide **smarter, more adaptable forecasting** tools.
+With increasing geopolitical risk and climate-related volatility, traditional oil pricing models fall short. Geo-Crude-Alpha aims to capture **real-time, real-world signals** from both structured and unstructured data to build a **smarter, adaptive forecasting framework** for energy markets.
 
 ---
 
@@ -34,41 +34,57 @@ geo-crude-alpha/
 └── README.md # Project overview
 
 
+
 ---
 
 ## 🛠️ Technologies & Tools
 
-- Python (Pandas, NumPy, scikit-learn, TensorFlow/PyTorch)
-- Natural Language Processing (spaCy, VADER, Hugging Face Transformers)
-- Weather APIs (e.g., NOAA, OpenWeatherMap)
-- Time Series Libraries (statsmodels, Prophet, tsfresh)
-- Data Visualization (Plotly, Matplotlib, Seaborn)
+- **Languages**: Python (Pandas, NumPy, scikit-learn, TensorFlow/PyTorch)
+- **NLP**: spaCy, VADER, Hugging Face Transformers
+- **Time Series**: statsmodels, Prophet, LSTM, tsfresh
+- **Weather Data**: NOAA API, OpenWeatherMap
+- **Visualization**: Plotly, Seaborn, Matplotlib
 
 ---
 
-## 🚧 Current Status
+## 👥 Contributors
 
-**In Progress** — Ainesh, Lex, and Brice are currently collecting and preprocessing data for the sentiment and weather pipelines. Time series baselines are being established.
+- [Brice A. Nelson](https://www.devbybrice.com) — *Data Strategist, ML Engineer, Full-Stack, Quant Research*
+- [Ainesh Balaga](https://github.com/abalaga09) — *Quant Trader, Quant Research Collaborator*
+- [Lex Pinedo](https://github.com/lexpinedo) — *Quant Research Collaborator*
 
 ---
 
-## 🤝 Contributors
+## 🌱 Current Status
 
-- [Brice A. Nelson](https://www.devbybrice.com) — Data Strategist, ML Engineer, Full-Stack, Quant Research 
-- Ainesh Balaga[TBD GitHub link] - Quant Trader, Quant Research Collaborator
-- Lex Pinedo[https://github.com/lexpinedo] — Quant Research Collaborator
+**In Progress** — Ainesh, Lex, and Brice are actively building the sentiment and weather pipelines. Time series model baselines are being explored.
 
 ---
 
 ## 📈 Future Work
 
-- Integrate macroeconomic data (CPI, interest rates)
-- Experiment with transformer-based time series models
-- Deploy as a Streamlit or Dash app for live forecasting
+- Integrate macroeconomic indicators (e.g., CPI, interest rates)
+- Test transformer-based forecasting architectures (e.g., Temporal Fusion Transformer)
+- Deploy interactive dashboard using Streamlit or Dash for live inference
+
+---
+
+## 🔁 Team Branches
+
+| Branch Name   | Purpose                            |
+|---------------|------------------------------------|
+| `feat-QR`     | Quant Research (modeling, testing) |
+| `feat-QT`     | Quant Trading (backtesting, metrics) |
+| `feat-Data`   | Data Strategy (APIs, scraping, cleaning) |
+
+---
+
+## 🏷️ Keywords (for discoverability)
+
+`quantitative research`, `oil price prediction`, `geopolitical sentiment`, `natural language processing`, `time series forecasting`, `weather data`, `crude oil`, `ARIMA`, `LSTM`, `Prophet`, `machine learning`, `energy markets`
 
 ---
 
 ## 📜 License
 
-This project is open source and freely available under the MIT License.
-
+This project is open-source under the [MIT License](./LICENSE).
