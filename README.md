@@ -54,9 +54,9 @@ geo-crude-alpha/
 
 ## 🤝 Contributors
 
-- [Brice A. Nelson](https://www.devbybrice.com) — Data Strategist 
-- Ainesh Balaga[TBD GitHub link] - Quant Trader Collaborator
-- Lex Pinedo[TBD GitHub link] — Quant Research Collaborator
+- [Brice A. Nelson](https://www.devbybrice.com) — Data Strategist, ML Engineer, Full-Stack, Quant Research 
+- Ainesh Balaga[TBD GitHub link] - Quant Trader, Quant Research Collaborator
+- Lex Pinedo[https://github.com/lexpinedo] — Quant Research Collaborator
 
 ---
 

@@ -130,7 +130,7 @@ venv.bak/
 conda-env/
 /envs/
 /conda-env/
-environment.yml
+
 
 # Spyder project settings
 .spyderproject
