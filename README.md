@@ -48,7 +48,7 @@ geo-crude-alpha/
 
 ## 🚧 Current Status
 
-**In Progress** — Lex and Brice are currently collecting and preprocessing data for the sentiment and weather pipelines. Time series baselines are being established.
+**In Progress** — Ainesh, Lex, and Brice are currently collecting and preprocessing data for the sentiment and weather pipelines. Time series baselines are being established.
 
 ---
 
